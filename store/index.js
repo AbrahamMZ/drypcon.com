@@ -1,6 +1,6 @@
 export const state = () => ({
-  locales: ['en', 'de'],
-  locale: 'de'
+  locales: ['en', 'es'],
+  locale: 'es',
 })
 
 export const mutations = {
@@ -8,5 +8,5 @@ export const mutations = {
     if (state.locales.includes(locale)) {
       state.locale = locale
     }
-  }
+  },
 }

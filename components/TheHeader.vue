@@ -6,7 +6,7 @@
       <div class="pl-4 flex items-center">
         <logo :isStickable="true" :isSticky="isSticky" />
       </div>
-      <div class="block lg:hidden pr-4">
+      <!-- <div class="block lg:hidden pr-4">
         <button
           class="flex items-center p-1 text-orange-800 hover:text-gray-900"
           @click.prevent.stop="onToggleClick"
@@ -20,9 +20,9 @@
             <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
           </svg>
         </button>
-      </div>
+      </div> -->
 
-      <div
+      <!-- <div
         :class="navContentClassList"
         class="w-full flex-grow lg:flex lg:items-center lg:w-auto lg:block mt-2 lg:mt-0 bg-white lg:bg-transparent text-black p-4 lg:p-0 z-20"
       >
@@ -55,9 +55,9 @@
         >
           Action
         </button>
-      </div>
+      </div> -->
     </div>
-    <hr class="border-b border-gray-100 opacity-25 my-0 py-0" />
+    <!-- <hr class="border-b border-gray-100 opacity-25 my-0 py-0" /> -->
   </nav>
 </template>
 

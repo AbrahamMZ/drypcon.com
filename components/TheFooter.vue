@@ -6,7 +6,7 @@
           <logo />
         </div>
 
-        <div class="flex-1">
+        <!-- <div class="flex-1">
           <p class="uppercase text-gray-500 md:mb-6">Links</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
@@ -76,18 +76,19 @@
               >
             </li>
           </ul>
-        </div>
+        </div> -->
         <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Company</p>
+          <p class="uppercase text-gray-500 md:mb-6">Contacto</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="#"
                 class="no-underline hover:underline text-gray-800 hover:text-orange-500"
-                >Official Blog</a
               >
+                Email: proyectos@drypcon.com
+              </a>
             </li>
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+            <!-- <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="#"
                 class="no-underline hover:underline text-gray-800 hover:text-orange-500"
@@ -100,7 +101,7 @@
                 class="no-underline hover:underline text-gray-800 hover:text-orange-500"
                 >Contact</a
               >
-            </li>
+            </li> -->
           </ul>
         </div>
       </div>

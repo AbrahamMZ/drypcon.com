@@ -3,7 +3,7 @@
     <hero />
     <features />
     <teasers />
-    <prices />
+    <!-- <prices /> -->
     <call-to-action />
   </div>
 </template>
