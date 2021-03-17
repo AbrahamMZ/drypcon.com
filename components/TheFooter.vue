@@ -81,6 +81,22 @@
           <p class="uppercase text-gray-500 md:mb-6">Contacto</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <p
+                class="no-underline hover:underline text-gray-800 hover:text-orange-500"
+              >
+                Domicilio: JOSE DE JESUS MANRIQUEZ Y ZARATE #301 COL. LA ALAMEDA
+                C.P. 37204 LEON, GUANAJUATO
+              </p>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <a
+                href="#"
+                class="no-underline hover:underline text-gray-800 hover:text-orange-500"
+              >
+                Telefono: 477-101-2404
+              </a>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="#"
                 class="no-underline hover:underline text-gray-800 hover:text-orange-500"
@@ -107,9 +123,7 @@
       </div>
     </div>
 
-    <a href="https://www.freepik.com/free-photos-vectors/background"
-      >Background vector created by freepik - www.freepik.com</a
-    >
+    <a> Background vector created by freepik - www.freepik.com</a>
   </footer>
 </template>
 

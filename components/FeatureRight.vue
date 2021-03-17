@@ -7,10 +7,10 @@
       <p class="text-gray-600 mb-8">
         {{ content }}
         <br />
-        <br />Images from:
-        <a class="text-orange-500 underline" href="https://undraw.co/"
+        <!-- <br />Images from: -->
+        <!-- <a class="text-orange-500 underline" href="https://undraw.co/"
           >undraw.co</a
-        >
+        > -->
       </p>
     </div>
     <div class="w-full sm:w-1/2 p-6">

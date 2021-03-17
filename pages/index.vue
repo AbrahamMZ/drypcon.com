@@ -2,7 +2,7 @@
   <div>
     <hero />
     <features />
-    <teasers />
+    <!-- <teasers /> -->
     <!-- <prices /> -->
     <call-to-action />
   </div>
